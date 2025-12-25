@@ -1,7 +1,7 @@
 # 📊 Análise de Evasão de Clientes — Telecom X
 
 ## 🧠 Visão Geral
-Este projeto realiza uma **Análise Exploratória de Dados (EDA)** sobre a base de clientes da empresa fictícia **Telecom X**, uma operadora de telecomunicações que enfrenta altos índices de evasão de clientes (*churn*).
+Este projeto realiza a **Extração, Transformação e Carga (ETL)** sobre a base de clientes da empresa fictícia **Telecom X**, uma operadora de telecomunicações que enfrenta altos índices de evasão de clientes (*churn*).
 
 O objetivo é identificar **padrões de comportamento, fatores de risco e perfis de clientes** mais propensos ao cancelamento, fornecendo **insights estratégicos** para apoiar decisões de negócio e futuras soluções analíticas.
 
